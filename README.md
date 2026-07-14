@@ -37,7 +37,7 @@ jupyter notebook customer_analysis.ipynb
 ├── customer_analysis.ipynb      # Core Python workspace containing markdown analysis & code execution
 ├── customer_data.csv            # Source data tracking demographics and subscriber churn indicators
 ├── sales_data.csv               # Transactional sales ledger tracking items, quantities, and regions
-└── README                   # Detailed documentation and repository architecture guide
+└── README.md                  # Detailed documentation and repository architecture guide
 
 🛠️ Technical Implementation Details
 ​Data Manipulation & Architecture
